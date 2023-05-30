@@ -1,2 +1,2 @@
-#- command: echo {{ VAR_01 }}
-- command: echo aaaa
+- command: echo {{ VAR_01 }}
+#- command: echo aaaa
